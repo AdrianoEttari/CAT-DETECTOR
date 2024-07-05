@@ -12,4 +12,4 @@ ATTENTION: for privacy reasons I decided not to load the zip file with the pictu
 The code has been run on colab. Unfortunately, I lost the requirements.txt file, but it is still working with the current version of the libraries that are used (today 17/03/24).
 
 The following is an application of the CAT-DETECTOR on a video
-![Ghiri Detection](https://github.com/AdrianoEttari/CAT-DETECTOR/blob/main/GHIRI_FINAL.gif)
+![Ghiri Detection](https://github.com/AdrianoEttari/CAT-DETECTOR/blob/main/CAT_DETECTOR.gif)
